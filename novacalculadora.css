@@ -1,0 +1,35 @@
+.calculator {
+    width: 250px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+  
+    
+  }
+ 
+ .operation{
+
+    background-color: aqua;
+ }
+
+ button {
+    
+    border: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: all 0.3s ease-in-out;
+    padding: 12px;
+  }
+
+  .equals{
+    padding: 20px;
+  }
+  
+
+
+
+
+
+ 
